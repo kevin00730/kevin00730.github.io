@@ -6,7 +6,16 @@
     <description>Recent content in Posts on first page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jan 2022 14:56:39 +0800</lastBuildDate><atom:link href="https://kevin00730.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jan 2022 16:52:53 +0800</lastBuildDate><atom:link href="https://kevin00730.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2hello</title>
+      <link>https://kevin00730.github.io/2022/01/2hello/</link>
+      <pubDate>Sun, 30 Jan 2022 16:52:53 +0800</pubDate>
+      
+      <guid>https://kevin00730.github.io/2022/01/2hello/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://kevin00730.github.io/2022/01/my-first-post/</link>
